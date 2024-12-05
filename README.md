@@ -1,4 +1,4 @@
-Chapter-1 Introducing Flutter and Getting Started
+Chapter 1: Introducing Flutter and Getting Started
 
 This portfolio documents my initial learning steps in Flutter development, focusing on the core concepts introduced in Chapter 1 ("Introducing Flutter and Getting Started) The chapter covers the Flutter framework, its benefits, the interplay between Flutter and Dart, widgets, elements, RenderObjects, widget lifecycles, and the setup of the development environment. Each section details my understanding and progress in each area.
 I followed the instructions in Chapter 1 to set up my development environment.This involved installing the Flutter SDK,Android Studio,and configuring my editor (VS Code).
